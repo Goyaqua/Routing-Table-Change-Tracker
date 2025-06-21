@@ -1,0 +1,15 @@
+# Core networking tools
+# Note: 'ip' command should be available on the system
+
+# Data handling and visualization
+networkx>=2.5
+matplotlib>=3.3.0
+
+# Core Python packages (included in standard library)
+# - subprocess
+# - csv
+# - logging
+# - datetime
+# - re
+# - os
+# - argparse
